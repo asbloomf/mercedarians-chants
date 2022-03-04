@@ -32,7 +32,7 @@ oneHiddenNote = {
   \hideNotes g'4 \unHideNotes
 }
 
-\score { \transpose c g {
+\score { \transpose c c {
   \absolute { \key c \major
     \cadenzaOn \stemOff
     \oneHiddenNote d'4 d' \bar "" c' d' \bar "" f' e' f' g'4. \divisioMinima f'4 d' \bar "" e' d' \bar "" c' f' e' d'4. \divisioMajor f'4 g' \bar "" a' a' \bar "" bes'! \bar "" g' a' a'4. \divisioMinima f'4( a' a' g') \bar "" e'( d') \bar "" f' e'( d') \bar "" c' d' d'4. \finalis
