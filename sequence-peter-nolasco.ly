@@ -57,29 +57,22 @@ oneHiddenNote = {
      "1." Pet -- rum cá -- ri -- tas na -- scén -- tem  Ce -- pit ul -- nis, et lac -- tén -- tem  Re -- cre -- á -- vit o -- scu -- lis.
      "2." Ut am -- bró -- sias for -- ment da -- pes,  Ad pu -- él -- lum vo -- lant a -- pes  O -- ne -- rá -- tæ fló -- scu -- lis.
      "3." Vir -- gi -- ná -- lem is can -- dó -- rem  Cæ -- lo vo -- vet, et fer -- vó -- rem  Ca -- ri -- tá -- tis éx -- hi -- bet.
-     "4." Cor -- de hu -- mi -- \markup{\italic{li} ab} -- sti -- nén -- ti -- a,  Fir -- ma fi -- de, pa -- tién -- ti -- a.  De -- o se -- se dé -- vo -- vet.
+     "4." Cor -- de hu -- mi -- \markup{\italic{li}, ab} -- sti -- nén -- ti -- a,  Fir -- ma fi -- de, pa -- tién -- ti -- a.  De -- o se -- se dé -- vo -- vet.
      "5." Mon -- stra hǽ -- re -- sis pe -- ró -- sus  Lin -- quit pá -- tri -- \markup{\italic{am}, et} pan -- nó -- sus  Re -- gna pe -- tit éx -- te -- ra.
      "6." Pro -- fert ar -- cas au -- ro ple -- nas,  Fran -- gat du -- ras quo ca -- té -- nas,  Ut lu -- cré -- tur ǽ -- the -- ra.
-     "7." At pe -- cú -- niis e -- ro -- gá -- tis,  Pro mi -- sel -- lis man -- ci -- pá -- tis  I -- pse ven -- di fla -- gi -- tat.
+     "7." Et pe -- cú -- niis e -- ro -- gá -- tis,  Pro mi -- sel -- lis man -- ci -- pá -- tis  I -- pse ven -- di fla -- gi -- tat.
      "8." Cæ -- \markup{\italic{lo} ac} -- cép -- tum fu -- it vo -- tum,  Quod ut es -- set cun -- ctis no -- tum  Ma -- gna Vir -- go cé -- le -- brat.
      "9." Præ -- bet il -- li se vi -- dén -- dam,  Et o -- rán -- ti au -- di -- én -- dam  Ma -- ni -- fés -- \markup{\italic{to} al} -- ló -- qui -- o.
-     "10." Si -- bi di -- cit fo -- re gra -- tum,  Fi -- li -- o -- que, si sa -- crá -- tum  Si -- bi con -- dat ór -- di -- nem.
+     "10." Si -- bi di -- cit fo -- re gra -- tum,  Fi -- li -- o -- que, si sa -- crá -- tum  Si -- bi con -- dat ór -- di -- nem_:
      "11." Cui cap -- tí -- vos li -- be -- rá -- re,  Pa -- tri -- ǽ -- que re -- do -- ná -- re  Cu -- ra sit præ -- cí -- pu -- a.
-     "12." Læ -- tus pa -- ret Pe -- trus cæ -- lo,  Et a -- lúm -- nos al -- bo ve -- lo  Sta -- tim su -- os in -- du -- it.
-     "13." Queis ma -- né -- \markup{\italic{re} in} ser -- vi -- tú -- te,  Si sit o -- pus pro sa -- lú -- te  Cap -- ti -- vó -- rum prǽ -- ci -- pit.
-     "14." O fe -- lí -- cem, cui ful -- gén -- tem  Præ -- bet Vir -- go se fre -- quén -- tem,  At -- que vo -- tis ob -- se -- quén -- tem  Sæ -- pe cu -- stos An -- ge -- lus.
-     "15." O be -- á -- tum, cu -- i pa -- sci  In -- ter li -- lia, cui re -- na -- sci  Cæ -- lo li -- cu -- it, cum na -- sci  Rex di -- gná -- tur cǽ -- li -- tum.
-     "16." Sal -- ve, Pa -- ter Re -- dem -- ptó -- rum  Cui Dó -- mi -- na An -- ge -- lo -- rum  De -- dit gre -- gem cap -- ti -- vó -- rum  Au -- fe -- rén -- dum cá -- ni -- bus.
-     "17." Pro -- fli -- gá -- ta pra -- vi -- tá -- te  Im -- pe -- trá -- ta ca -- ri -- tá -- te  Fac nos ve -- ra li -- ber -- tá -- te  Pe -- tre fru -- \markup{\italic{i} in} ci -- vi -- tá -- te.  Su -- per -- nó -- rum cí -- vi -- um.  A -- men.  Al -- le -- lú -- ia. 
+     "12." Læ -- tus pa -- ret Pe -- trus cæ -- lo,  Et a -- lúm -- nos al -- bo ve -- lo  Sta -- tim su -- os in -- du -- it_:
+     "13." Queis ma -- né -- \markup{\italic{re} in} ser -- vi -- tú -- te,  Si sit o -- pus, pro sa -- lú -- te  Cap -- ti -- vó -- rum prǽ -- ci -- pit.
+     "14." O fe -- lí -- cem, cui ful -- gén -- tem  Præ -- bet Vir -- go se fre -- quén -- tem,  At -- que vo -- tis ob -- se -- quén -- tem  Sæ -- pe cu -- stos An -- ge -- lus!
+     "15." O be -- á -- tum, cu -- i pa -- sci  In -- ter li -- lia, cui re -- na -- sci  Cæ -- lo lí -- cu -- it, cum na -- sci  Rex di -- gná -- tur cǽ -- li -- tum.
+     "16." Sal -- ve, Pa -- ter Re -- dem -- ptó -- rum,  Cui Dó -- mi -- na An -- ge -- lo -- rum  De -- dit gre -- gem cap -- ti -- vó -- rum  Au -- fe -- rén -- dum cá -- ni -- bus.
+     "17." Pro -- fli -- gá -- ta pra -- vi -- tá -- te,  Im -- pe -- trá -- ta ca -- ri -- tá -- te_:  Fac nos ve -- ra li -- ber -- tá -- te,  Pe -- tre, fru -- \markup{\italic{i} in} ci -- vi -- tá -- te  Su -- per -- nó -- rum cí -- vi -- um.  A -- men.  Al -- le -- lú -- ia. 
   }
   \header {
     initial-style = "0"
-  }
-}
-
-\layout {
-  \context {
-      \Staff
-      \remove "Time_signature_engraver"
   }
 }

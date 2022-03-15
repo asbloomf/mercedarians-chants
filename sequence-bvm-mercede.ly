@@ -54,30 +54,22 @@ oneHiddenNote = {
   } }
   \addlyrics {
      "1." Plau -- dat ag -- men cap -- ti -- vó -- rum,  Tur -- ba psal -- lat Chri -- stia -- nó -- rum,  Læ -- tum su -- mat et de -- có -- rum  In hac di -- e cán -- ti -- cum.
-     "2." Si -- mul om -- nes ex -- sul -- té -- mus,  At -- que gra -- ti ce -- le -- bré -- mus  Lu -- cem tan -- tam qua gau -- dé -- mus,  Vin -- cla fra -- cta cér -- ne -- re.
-     "3." Ful -- get jam di -- es be -- ni -- gna,  Qua cǽ -- li -- tum plau -- su di -- gna,  Su -- æ ce -- le -- brán -- da si -- gna  Ca -- ri -- tá -- tis éx -- hi -- bet.
-     "4." Ec -- ce fi -- dem, ec -- ce vi -- tam,  A -- stu, pla -- gis im -- pe -- tí -- tam,  Fe -- re tot ma -- lis con -- trí -- tam,  Fir -- mat Vi -- gro Gé -- ni -- trix.
-     "5." E -- ju -- lá -- tus et la -- mén -- ta  Fi -- dæ ple -- bis, et tor -- mén -- ta  Vi -- dens il -- la non fu -- it len -- ta  Déx -- te -- ram por -- rí -- ge -- re.
+     "2." Si -- mul om -- nes ex -- sul -- té -- mus,  At -- que gra -- ti ce -- le -- bré -- mus  Lu -- cem tan -- tam, qua gau -- dé -- mus,  Vin -- cla fra -- cta cér -- ne -- re.
+     "3." Ful -- get iam di -- es be -- ni -- gna,  Qua cǽ -- li -- tum plau -- su di -- gna,  Su -- æ ce -- le -- brán -- da si -- gna  Ca -- ri -- tá -- tis éx -- hi -- bet.
+     "4." Ec -- ce fi -- dem, ec -- ce vi -- tam,  A -- stu, pla -- gis im -- pe -- tí -- tam,  Fe -- re tot ma -- lis con -- trí -- tam,  Fir -- mat Vir -- go Gé -- ni -- trix.
+     "5." E -- iu -- lá -- tus et la -- mén -- ta  Fi -- dæ ple -- bis, et tor -- mén -- ta  Vi -- dens il -- la, non fu -- it len -- ta  Déx -- te -- ram por -- rí -- ge -- re.
      "6." Ut dis -- crí -- mi -- na sol -- ván -- tur,  Qui -- bus mer -- si con -- tri -- stán -- tur,  Atqu -- \markup{\italic{e} in} pá -- tri -- am re -- du -- cán -- tur  Fi -- de rur -- sus ín -- te -- gri.
      "7." Dum No -- lá -- scus co -- gi -- tá -- ret,  Ut op -- prés -- sos li -- be -- rá -- ret,  Et as -- sí -- du -- is va -- cá -- ret  Me -- di -- ta -- ti -- ó -- ni -- bus.
      "8." Cle -- mens se fron -- te se -- ré -- na,  Ut mi -- sél -- los de ca -- té -- na  I -- pse le -- vet Sa -- ra -- cé -- na,  Il -- li dat con -- spí -- ce -- re.
-     "9." Si -- bi gra -- tum ni -- mis fo -- re,  Na -- to quo -- que pro -- nit o -- re,  Sa -- crum si pro su -- \markup{\italic{i} ho} -- nó -- re  I -- pse con -- dat Or -- di -- nem.
-     "10." Cui præ -- sér -- tim sit cu -- rá -- re,  Fer -- ro vin -- ctos ex -- pli -- cá -- re,  So -- spi -- tés -- que re -- vo -- cá -- re  A fe -- ra ty -- rán -- ni -- de.
-     "11." Hoc in -- sign -- \markup{\italic{e} a} -- mó -- ris ra -- ri  O -- pus ju -- bet as -- ser -- vá -- ri;  Et ut pos -- sit pro -- pa -- gá -- ri,  Pa -- lam do -- cet á -- li -- os.
-     "12." Cœ -- pit Pe -- trus ob -- se -- quén -- do,  Cum so -- dá -- li -- bus, vo -- vén -- do,  Si ne -- cés -- se sit, ma -- nén -- do  In pi -- gnus re -- dí -- me -- re.
+     "9." Si -- bi gra -- tum ni -- mis fo -- re,  Na -- to quo -- que pro -- mit o -- re,  Sa -- crum si pro su -- \markup{\italic{i} ho} -- nó -- re  I -- pse con -- dat Or -- di -- nem.
+     "10." Cui præ -- sér -- tim sit cu -- rá -- re,  Fer -- ro vin -- ctos ex -- pli -- cá -- re,  So -- spi -- tés -- que re -- vo -- cá -- re,  A fe -- ra ty -- rán -- ni -- de.
+     "11." Hoc in -- sign -- \markup{\italic{e} a} -- mó -- ris ra -- ri  O -- pus iu -- bet as -- ser -- vá -- ri;  Et ut pos -- sit pro -- pa -- gá -- ri,  Pa -- lam do -- cet á -- li -- os.
+     "12." Cœ -- pit Pe -- trus ob -- se -- quén -- do,  Cum so -- dá -- li -- bus, vo -- vén -- do,  Si ne -- cés -- se sit, ma -- nén -- do  In pi -- gnus, re -- dí -- me -- re.
      "13." Dul -- cis In -- sti -- tú -- trix no -- stra,  Ma -- trem no -- bis_t -- \markup{\italic{e} es} -- se mon -- stra,  Et cap -- tí -- vos ré -- fo -- ve.
-     "14." Ig -- nem au -- ge, fac præ -- clá -- ram,  At -- que Na -- to red -- de ca -- ram,  Quam fun -- dá -- sti so -- bó -- lem.
+     "14." Ig -- nem au -- ge, fac præ -- clá -- ram,  At -- que Na -- to red -- de cha -- ram,  Quam fun -- dá -- sti so -- bó -- lem.
      "15." Da quod ti -- bi gra -- ti si -- mus:  Et ut tár -- ta -- ra pos -- sí -- mus  E -- vi -- tá -- re, cum a -- bí -- mus,  Vul -- tum tu -- um éx -- hi -- be.  A -- men,  Al -- le -- lú -- ia. 
   }
   \header {
     initial-style = "0"
-  }
-}
-
-\layout {
-  \context {
-      \Staff
-      \remove "Time_signature_engraver"
-      %\remove "Bar_engraver"
   }
 }

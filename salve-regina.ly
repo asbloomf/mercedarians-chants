@@ -81,10 +81,3 @@ finalis = {
     staff-lines = "5"
   }
 }
-
-\layout {
-  \context {
-      \Staff
-      \remove "Time_signature_engraver"
-  }
-}

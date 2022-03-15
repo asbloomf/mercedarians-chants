@@ -22,3 +22,14 @@
                          "Garamond Premier Pro"
                           (/ myStaffSize 20)))
 }
+
+\layout {
+  \context {
+      \Staff
+      \remove "Time_signature_engraver"
+  }
+  \context {
+      \Lyrics
+      \override LyricSpace #'minimum-distance = #1.2
+  }
+}
