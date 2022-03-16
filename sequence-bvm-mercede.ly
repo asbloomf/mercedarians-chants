@@ -1,33 +1,12 @@
 \version "2.16.0"
 
-stemOff = {
-  \hide Staff.Stem
-}
-divisioMinima = {
-  \once \override BreathingSign.stencil =
-    #ly:breathing-sign::divisio-minima
-  %\once \override BreathingSign.Y-offset = #0
-  \breathe
-}
-divisioMajor = {
-  \once \override BreathingSign.stencil =
-    #ly:breathing-sign::divisio-maior
-  \once \override BreathingSign.Y-offset = #0
-  \breathe
-}
-divisioMaxima = {
-  \once \override BreathingSign.stencil =
-    #ly:breathing-sign::divisio-maxima
-  \once \override BreathingSign.Y-offset = #0
-  \breathe
-}
 finalis = {
+  s8
   \once \override BreathingSign.stencil =
     #ly:breathing-sign::finalis
   \once \override BreathingSign.Y-offset = #0
   \breathe
 }
-
 oneHiddenNote = {
   \hideNotes g'4 \unHideNotes
 }
