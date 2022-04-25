@@ -1,9 +1,10 @@
 initial-style: 1;
 %%
-(cb4)A(ffvEDe)Ve(cdf) Re(f)gi(gh)na(h) cæ(gh)lo(ivHGg)rum,(f)
-A(fvEDe)ve(cdf) Do(f)mi(gh)na(h) An(h)ge(gh)lo(ivHGg)rum,(f)
-Sal(fghi)ve(h) ra(ji)dix(hvGF) san(ghgg)cta,(f)
-Ex(f) qua(ef) mun(cdgfg)do(f) lux(f) est(gh) or(ivHGg)ta~:(f)
-gau(f)de(hj) glo(ji)ri(hvGF)o(ghgg)sa,(f)
-Su(f)per(ef) om(cdffg)nes(f) spe(f)ci(gh)o(ivHGg)sa~:(f)
-Va(fghi)le(h) val(j)de(hg) de(f)co(ghg)ra,(h) Et(h) pro(gh) no(ivHGg)bis(f) sem(g)per,(fe) Chri(dc)stum(f) e(gh)xo(ivHGg)ra.(f) (::)
+(cb4)A(ffvEDe)Ve(cdf) <v>\greheightstar</v>(,) Re(f)gi(gh)na(h) cæ(gh)lo(ivHGg)rum,(f) (;)
+A(fvEDe)ve(cdf) (,) Do(f)mi(gh)na(h) An(h)ge(gh)lo(ivHGg)rum,(f) (::)
+Sal(fghi)ve(h) (,) ra(ji)dix(hvGF) san(ghgg)cta,(f) (;)
+Ex(f) qua(ef) mun(cdgfg)do(f) (,) lux(f) est(gh) or(ivHGg)ta~:(f) (:)
+Gau(f)de(hj) glo(ji)ri(hvGF)o(ghgg)sa,(f) (;)
+Su(f)per(ef) om(cdffg)nes(f) (,) spe(f)ci(gh)o(ivHGg)sa~:(f) (::)
+Va(fghi)le(h) (,) val(j)de(hg) de(f)co(ghg)ra,(h) (;)
+Et(h) pro(gh) no(ivHGg)bis(f) (,) sem(g)per,(fe) Chri(dc)stum(f) <v>\greheightstar</v> e(gh)xo(ivHGg)ra.(f) (::)
